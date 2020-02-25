@@ -7,3 +7,7 @@ first entry on develop branch
 first commit on feature 1
 
 second commit on feature 1
+
+first commit on feature 2
+
+second commit on feature 2
